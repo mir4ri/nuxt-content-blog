@@ -75,11 +75,11 @@ h6 {
 }
 
 .page-heading>.wrapper {
-  @apply max-w-3xl m-auto;
+  @apply p-4 max-w-5xl m-auto;
 }
 
 .page-section {
-  @apply p-4 py-8 m-auto max-w-3xl;
+  @apply p-4 py-8 m-auto max-w-5xl ;
 }
 
 .article-list {
